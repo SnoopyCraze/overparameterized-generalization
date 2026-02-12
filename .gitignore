@@ -1,0 +1,26 @@
+# Datasets (auto-downloaded by torchvision on first run)
+experiments/data/
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
