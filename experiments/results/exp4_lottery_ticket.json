@@ -1,0 +1,66 @@
+{
+  "prune_0pct": {
+    "prune_pct": 0,
+    "test_acc": [
+      84.91,
+      84.69,
+      85.0
+    ]
+  },
+  "prune_30pct": {
+    "prune_pct": 30,
+    "test_acc": [
+      85.21,
+      85.2,
+      85.41
+    ]
+  },
+  "prune_50pct": {
+    "prune_pct": 50,
+    "test_acc": [
+      84.9,
+      84.55,
+      85.12
+    ]
+  },
+  "prune_70pct": {
+    "prune_pct": 70,
+    "test_acc": [
+      84.9,
+      84.51,
+      84.8
+    ]
+  },
+  "prune_80pct": {
+    "prune_pct": 80,
+    "test_acc": [
+      84.28,
+      84.29,
+      84.84
+    ]
+  },
+  "prune_90pct": {
+    "prune_pct": 90,
+    "test_acc": [
+      83.95,
+      83.34,
+      83.87
+    ]
+  },
+  "prune_95pct": {
+    "prune_pct": 95,
+    "test_acc": [
+      81.67,
+      81.32,
+      81.45
+    ]
+  },
+  "random_reinit_90pct": {
+    "prune_pct": 90,
+    "test_acc": [
+      81.2,
+      80.86,
+      80.7
+    ]
+  }
+}
