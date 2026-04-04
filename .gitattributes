@@ -1,0 +1,4 @@
+paper.tex       linguist-documentation
+paper.bbl       linguist-documentation
+references.bib  linguist-documentation
+*.json          linguist-generated
